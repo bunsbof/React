@@ -1,0 +1,7 @@
+1. Array, array method
+2. Reference types
+
+Example:
+1. Random gift
+2. Two-way Binding
+3. Todolist
