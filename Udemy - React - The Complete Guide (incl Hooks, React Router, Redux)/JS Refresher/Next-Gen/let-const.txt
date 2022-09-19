@@ -1,0 +1,2 @@
+let: just say it a new var keyword, variable values
+const: constant values, assign once and never changed

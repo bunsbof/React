@@ -6,4 +6,5 @@ Lean and focused component-based UI library. Certain features (e.g. routing) are
 Theory/Small Demos& Examples + More Realistic (Bigger) Example Projects + Challenges & Exercises
 Basics & Foundation(Introducing Key Features):Components & Building UIs, Working with Events & Data: "props" & "state", Styling React Apps & Components, Introduction into "React Hooks"
 Advanced Concepts (Building for Production): Side Effects, "Refs" & More React Hooks, React's Context API & Redux, Forms, Http Requests & "Custom Hooks", Routing; Deployment; NextJS & More,
-Summaries & Refreshers(Optimizing your Time): JavaScript Refresher, ReactJS Summary, 
+Summaries & Refreshers(Optimizing your Time): JavaScript Refresher, ReactJS Summary
+
