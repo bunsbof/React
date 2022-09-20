@@ -1,0 +1,7 @@
+React Core Syntax & JSX
+Working with Components
+Working with Data
+
+React is a JS library for building user interfaces. HTML, CSS & JS are about building user interfaces as well. React makes building complex, interactive and reactive user interfaces simpler. React is all about "Components".
+Components: all user interfaces in the end are up of components. Components is just a combination of HTML & CSS and posibly JS as a logic
+Why Components: Reusability, Separation of Concerns, Don't repeat yourself, Don't do too many things in one and the same place (function)
